@@ -2,7 +2,7 @@
 # Sample hello world script
 
 def main():
-  print ("hello World")
+  print ("Hello World")
 
-if __name__=="__main__"
+if __name__ == "__main__":
 main()
