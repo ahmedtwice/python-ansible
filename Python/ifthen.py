@@ -6,7 +6,7 @@ def main():
 	y = 100
 	if x < y: 
 		print("x is less than y")
-	if x > y:
+	elif x > y:
 		print ("x is greater then y")
 
 main()
