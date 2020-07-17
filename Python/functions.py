@@ -7,4 +7,7 @@ def func1():
 
 # call functions
 
+
 func1()
+print(func1())
+print(func1)
