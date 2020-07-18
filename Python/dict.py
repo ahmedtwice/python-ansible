@@ -14,3 +14,6 @@ eng2esp.update({"four":"cuatro", "five":"cinco"})
 eng2esp.pop("two")
 print(eng2esp)
 
+#show all keys and values
+print(eng2esp.keys())
+print(eng2esp.values())
